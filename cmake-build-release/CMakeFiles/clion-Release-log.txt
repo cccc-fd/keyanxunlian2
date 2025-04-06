@@ -1,4 +1,0 @@
-D:\soft\CLion2023.2\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=D:/soft/CLion2023.2/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\code\workspace_cpp\MyPathPlanning -B D:\code\workspace_cpp\MyPathPlanning\cmake-build-release
--- Configuring done (0.7s)
--- Generating done (0.0s)
--- Build files have been written to: D:/code/workspace_cpp/MyPathPlanning/cmake-build-release
